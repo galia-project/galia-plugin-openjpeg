@@ -1,0 +1,12 @@
+##
+# This file contains all of the configuration keys used by OpenJPEGDecoder.
+# Simply copy them into your main application configuration.
+#
+
+#----------------------------------------
+# OpenJPEGDecoder
+#----------------------------------------
+
+# Number of threads to use for decoding. Set to 0 to use as many threads as
+# there are processor cores.
+decoder.OpenJPEGDecoder.num_threads = 0
